@@ -34,3 +34,14 @@ Run
 To run this program type:
 
     python stream.py
+    
+Watch
+=====
+
+To see the stream type ip adress and port plus /stream. If port is 80 you do't have to type it. For example:
+    
+    http://192.168.0.136/stream
+    
+Example for other port than 80:
+    
+    http://192.168.0.136:90/stream
